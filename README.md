@@ -3,7 +3,9 @@
 1 - Pelo terminal/cmd crie uma pasta na raiz do projeto chamada backend: `mkdir backend` \
 2 - acesse a pasta `cd backend` e digite: `npm init -y` \
 
-## Código-fonte
+## Código-fonte para acompanhamento
+
+Durante o minicurso o código-fonte do projeto será compartilhado nestes links para facilitar a interação dos alunos:
 
 - /backend
   - /models
