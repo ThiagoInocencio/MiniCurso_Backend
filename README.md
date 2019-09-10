@@ -1,5 +1,9 @@
 # Desenvolvimento full stack: Backend
 
+Neste minicurso iremos construir um sistema de cadastro de livros utilizando [Node.js](https://nodejs.org/pt-br/), [ReactJS](https://reactjs.org/), [Express](https://expressjs.com/) e [MongoDB](https://www.mongodb.com/).
+
+## Tutorial
+
 1 - Pelo terminal/cmd crie uma pasta na raiz do projeto chamada backend: `mkdir backend` \
 2 - acesse a pasta `cd backend` e digite: `npm init -y` \
 
