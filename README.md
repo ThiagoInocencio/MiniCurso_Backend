@@ -3,6 +3,21 @@
 1 - Pelo terminal/cmd crie uma pasta na raiz do projeto chamada backend: `mkdir backend` \
 2 - acesse a pasta `cd backend` e digite: `npm init -y` \
 
+3 - módulos que utlizaremos no projeto:
+
+- [cors](https://www.npmjs.com/package/cors);
+- [dotenv](https://www.npmjs.com/package/dotenv);
+- [express](https://www.npmjs.com/package/express);
+- [mongoose](https://www.npmjs.com/package/mongoose);
+- [nodemon](https://www.npmjs.com/package/nodemon)
+
+Para instalar um módulo utilizamos o comando `npm install modulo`, por exemplo, para carregar o módulo do express em nosso
+projeto utilizamos o comando:
+
+```
+  npm install express
+```
+
 ## Código-fonte para acompanhamento
 
 Durante o minicurso o código-fonte do projeto será compartilhado nestes links para facilitar a interação dos alunos:
